@@ -1,3 +1,4 @@
+#https://www.youtube.com/watch?v=rbasThWVb-c
 import random
 import curses
 
